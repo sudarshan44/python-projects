@@ -1,0 +1,7 @@
+def string_check(str):
+	if len(str) < 2:
+		return ''
+	else:
+		return str[0:2] + str[-2:]
+print(string_check('saibaba'))
+print(string_check('jaysai'))
