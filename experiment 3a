@@ -1,6 +1,6 @@
 n = input("Please enter the value of n :- ")
 
-list1 = ["Mango","Raspberry","jintalbangladeshi","Sudarshanbeta","ShreyasBeer","Jack"]
+list1 = ["deveshcobra","rishikonda","jintalbangladeshi","Sudarshanpython","aalesh","kalu"]
 
 for i in range(len(list1)):
 	if len(str(list1[i])) > n:
